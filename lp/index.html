@@ -139,7 +139,7 @@
           
           <div class="col-xs-12 col-sm-12 col-md-6 ">
              <div class="two-colom-image-right wow fadeInRight">
-                <a id="single_image" href="images/system-img.png"><img class="img-responsive" src="images/system-img.png" alt="img1"></a>
+                <a id="single_image" href="images/system-img.png" class="fancybox-gallery"><img class="img-responsive" src="images/system-img.png" alt="img1"></a>
              </div>
 		</div>
           
@@ -322,6 +322,20 @@
         closeClick: false,
         openEffect: 'none',
         closeEffect: 'none'
+    });
+
+
+	// Image Lightbox ==============================================
+	
+	$(".fancybox-gallery").fancybox({
+        openEffect: 'fade',
+        closeEffect: 'fade',
+        nextEffect: 'fade',
+        prevEffect: 'fade',
+        arrows: true,
+        autoPlay: false,
+        closeClick: true,
+        scrolling: 'no'
     });
 
 
