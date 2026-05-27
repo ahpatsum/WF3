@@ -1,0 +1,109 @@
+[09-Sep-2019 19:32:31 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 19:32:31 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 19:32:31 UTC] PHP Warning:  include(): Failed opening 'includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 19:42:50 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 19:42:50 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 19:42:50 UTC] PHP Warning:  include(): Failed opening 'includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 19:49:41 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 19:49:41 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 19:49:41 UTC] PHP Warning:  include(): Failed opening 'includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:00:59 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:00:59 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:00:59 UTC] PHP Warning:  include(): Failed opening 'includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:00:59 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tamdintf/public_html/wf3/bo/includes/update.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 11
+[09-Sep-2019 20:01:13 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:01:13 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:01:13 UTC] PHP Warning:  include(): Failed opening 'includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:01:13 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tamdintf/public_html/wf3/bo/includes/update.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 11
+[09-Sep-2019 20:01:27 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:01:27 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:01:27 UTC] PHP Warning:  include(): Failed opening 'includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:01:27 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tamdintf/public_html/wf3/bo/includes/update.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 11
+[09-Sep-2019 20:08:11 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/tamdintf/public_html/wf3/bo/includes/update.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 10
+[09-Sep-2019 20:15:38 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:15:38 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:15:38 UTC] PHP Warning:  include(): Failed opening 'includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:18:28 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:18:28 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:18:28 UTC] PHP Warning:  include(): Failed opening 'includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:18:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getDatabaseConnexion() in /home/tamdintf/public_html/wf3/bo/includes/update.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 12
+[09-Sep-2019 20:31:12 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:31:12 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:31:12 UTC] PHP Warning:  include(): Failed opening 'includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:31:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getDatabaseConnexion() in /home/tamdintf/public_html/wf3/bo/includes/update.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 17
+[09-Sep-2019 20:32:23 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:32:23 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:32:23 UTC] PHP Warning:  include(): Failed opening 'includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:32:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getDatabaseConnexion() in /home/tamdintf/public_html/wf3/bo/includes/update.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 17
+[09-Sep-2019 20:33:39 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:33:39 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:33:39 UTC] PHP Warning:  include(): Failed opening 'includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:33:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getDatabaseConnexion() in /home/tamdintf/public_html/wf3/bo/includes/update.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 17
+[09-Sep-2019 20:35:06 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:35:06 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:35:06 UTC] PHP Warning:  include(): Failed opening 'includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:35:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getDatabaseConnexion() in /home/tamdintf/public_html/wf3/bo/includes/update.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 15
+[09-Sep-2019 20:38:10 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:38:10 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:38:10 UTC] PHP Warning:  include(): Failed opening 'includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:38:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getDatabaseConnexion() in /home/tamdintf/public_html/wf3/bo/includes/update.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 14
+[09-Sep-2019 20:38:43 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:38:43 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:38:43 UTC] PHP Warning:  include(): Failed opening 'includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:38:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getDatabaseConnexion() in /home/tamdintf/public_html/wf3/bo/includes/update.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 14
+[09-Sep-2019 20:38:53 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:38:53 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:38:53 UTC] PHP Warning:  include(): Failed opening 'includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:38:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getDatabaseConnexion() in /home/tamdintf/public_html/wf3/bo/includes/update.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 14
+[09-Sep-2019 20:41:12 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:41:12 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:41:12 UTC] PHP Warning:  include(): Failed opening 'includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:41:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getDatabaseConnexion() in /home/tamdintf/public_html/wf3/bo/includes/update.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 14
+[09-Sep-2019 20:42:09 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:42:09 UTC] PHP Warning:  include(includes/database.php): failed to open stream: No such file or directory in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:42:09 UTC] PHP Warning:  include(): Failed opening 'includes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 3
+[09-Sep-2019 20:42:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getDatabaseConnexion() in /home/tamdintf/public_html/wf3/bo/includes/update.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 14
+[09-Sep-2019 21:25:51 UTC] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 17
+[09-Sep-2019 21:27:06 UTC] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home/tamdintf/public_html/wf3/bo/includes/update.php on line 18

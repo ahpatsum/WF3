@@ -1,0 +1,86 @@
+<?php 
+error_reporting(E_ALL);
+ini_set('display_errors', TRUE);
+ini_set('display_startup_errors', TRUE); 
+
+//Sessions======================
+if (!isset($_SESSION['login'])){
+
+}else{    
+    header('Location: index.php');
+}
+session_start();
+
+//==============================
+//Import database classes=======
+include 'includes/database.php';
+//Presentation Page
+$presentation_elements = getPresentation();
+//Contact Page
+$contact_elements = getContact();
+//Languages Page
+$language_elements = getLanguages();
+//Personal skills Page
+$personalskills_elements = getPersonalskills();
+//Professional skills Page
+$professionalskills_elements = getProfessionalskills();
+//Professional hobbies
+$hobbies_elements = getHobbies();
+//Professional experiences
+$experiences_elements = getExperiences();
+$proSkillsLimit = getProfessionalskillsLastItem();
+//Formations
+$formations_elements = getFormations();
+//==============================//
+
+//$success = $_GET['success'];
+$message="";
+if (isset($_GET['success'])){
+    if ($_GET['success']='oui'){
+        $message="Enregistrer avec succès";
+    }else{
+        $message="Erreur";
+    }
+}
+if (isset($_GET['succesdel'])){
+    if ($_GET['succesdel']='oui'){
+        $message="Supprimé avec succès";
+    }else{
+        $message="Erreur";
+    }
+}
+?>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+    <link href="https://file.myfontastic.com/EJaRUQdCh9rpDF5wr89866/icons.css" rel="stylesheet">
+    <link href="css/fontawesome/css/fontawesome.css" rel="stylesheet" />
+    <link href="css/fontawesome/css/brands.css" rel="stylesheet" />
+    <link href="css/fontawesome/css/solid.css" rel="stylesheet" />
+    <link href="css/fontawesome/css/sharp-thin.css" rel="stylesheet" />
+    <link href="css/fontawesome/css/duotone-thin.css" rel="stylesheet" />
+    <link href="css/fontawesome/css/sharp-duotone-thin.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/style-bo.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    <title>CV as Chance for Victory</title>
+    <meta name="description" content="CV as Chance for Victory">
+    <meta name="author" content="Mustapha Amraoui">
+    <link rel="icon" href="../lp/images/logo-icon.png"> <!-- remove this if you use Modernizr -->
+    <script>
+        (function(e, t, n) {
+            var r = e.querySelectorAll("html")[0];
+            r.className = r.className.replace(/(^|\s)no-js(\s|$)/, "$1js$2")
+        })(document, window, 0);
+    </script>
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="insider">
+            <main>
+                <div class="left">
+                    <div class="logohead"> <img src="img/logobo.png" alt=""> </div>
